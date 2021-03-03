@@ -1,0 +1,12 @@
+org/tosunsi/tp/teams/handling/api/controller/TeamController.class
+org/tosunsi/tp/teams/handling/api/TpTeamsHandlingApiApplication.class
+org/tosunsi/tp/teams/handling/api/entity/TeamEntity.class
+org/tosunsi/tp/teams/handling/api/service/TeamService.class
+org/tosunsi/tp/teams/handling/api/repository/TeamRepository.class
+org/tosunsi/tp/teams/handling/api/controller/config/WebSecurityConfig.class
+org/tosunsi/tp/teams/handling/api/exception/TeamNotFoundException.class
+org/tosunsi/tp/teams/handling/api/dto/PlayerDto.class
+org/tosunsi/tp/teams/handling/api/controller/handler/TeamExceptionHandler.class
+org/tosunsi/tp/teams/handling/api/dto/TeamDto.class
+org/tosunsi/tp/teams/handling/api/controller/config/WebSecurityConfig$1.class
+org/tosunsi/tp/teams/handling/api/exception/TeamInvalidException.class

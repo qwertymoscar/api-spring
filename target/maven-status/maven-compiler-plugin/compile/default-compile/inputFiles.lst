@@ -1,0 +1,11 @@
+/Users/moussa/Documents/labs/pfe/api-spring/src/main/java/org/tosunsi/tp/teams/handling/api/controller/handler/TeamExceptionHandler.java
+/Users/moussa/Documents/labs/pfe/api-spring/src/main/java/org/tosunsi/tp/teams/handling/api/repository/TeamRepository.java
+/Users/moussa/Documents/labs/pfe/api-spring/src/main/java/org/tosunsi/tp/teams/handling/api/TpTeamsHandlingApiApplication.java
+/Users/moussa/Documents/labs/pfe/api-spring/src/main/java/org/tosunsi/tp/teams/handling/api/controller/TeamController.java
+/Users/moussa/Documents/labs/pfe/api-spring/src/main/java/org/tosunsi/tp/teams/handling/api/controller/config/WebSecurityConfig.java
+/Users/moussa/Documents/labs/pfe/api-spring/src/main/java/org/tosunsi/tp/teams/handling/api/dto/PlayerDto.java
+/Users/moussa/Documents/labs/pfe/api-spring/src/main/java/org/tosunsi/tp/teams/handling/api/service/TeamService.java
+/Users/moussa/Documents/labs/pfe/api-spring/src/main/java/org/tosunsi/tp/teams/handling/api/exception/TeamInvalidException.java
+/Users/moussa/Documents/labs/pfe/api-spring/src/main/java/org/tosunsi/tp/teams/handling/api/entity/TeamEntity.java
+/Users/moussa/Documents/labs/pfe/api-spring/src/main/java/org/tosunsi/tp/teams/handling/api/exception/TeamNotFoundException.java
+/Users/moussa/Documents/labs/pfe/api-spring/src/main/java/org/tosunsi/tp/teams/handling/api/dto/TeamDto.java

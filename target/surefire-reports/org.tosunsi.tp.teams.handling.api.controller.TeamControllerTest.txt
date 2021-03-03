@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: org.tosunsi.tp.teams.handling.api.controller.TeamControllerTest
 -------------------------------------------------------------------------------
-Tests run: 8, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.007 s - in org.tosunsi.tp.teams.handling.api.controller.TeamControllerTest
+Tests run: 8, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.9 s - in org.tosunsi.tp.teams.handling.api.controller.TeamControllerTest

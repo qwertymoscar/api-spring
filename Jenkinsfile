@@ -11,8 +11,10 @@ pipeline {
             }
         }
         stage('clean') {
-            sh "chmod +x mvnw"
-            sh "./mvnw clean"
+            steps {
+                sh "chmod +x mvnw"
+                sh "./mvnw clean"
+            }
         }
         stage('Unit Test') {
             steps {
